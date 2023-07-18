@@ -1,0 +1,23 @@
+body {
+  background-color: darkseagreen;
+   font-family: "Times New Roman", Times, serif;
+   font-size: 50px ;
+}
+
+h1 {
+  color: seagreen;
+  text-align: center;
+   font-family: "Times New Roman", Times, serif;
+}
+
+h2{
+  color:seagreen;
+   font-family: "Times New Roman", Times, serif;
+}
+
+
+
+p{
+  color: white;
+   font-family: "Times New Roman", Times, serif;
+}
